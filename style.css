@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.hero.title {
+    color: rgb(255, 0, 0);
+    border: 1px solid black;
+}
+
+.hero{
+    height: 400px;
+    border: 1px solid black;
+    background: url(./Assets/Chicken-Parmiagiana.jpg) center center no-repeat;
+    background-size: cover;
+}
+
